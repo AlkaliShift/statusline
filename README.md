@@ -125,7 +125,7 @@ $output = $parts -join "  $([char]0x00B7)  "
 
 Windows PowerShell 5.1 的控制台代码页可能是 GBK（936）。如果直接读取标准输入，包含中文目录名的 JSON 可能乱码。脚本使用 `StreamReader` 按 UTF-8 解码，并将输出编码设置为 UTF-8。
 
-## 二、配置 `settings.json`
+## 二、配置 `settings.json`（可以直接写在cc switch里）
 
 打开：
 
