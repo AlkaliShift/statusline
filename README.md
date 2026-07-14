@@ -9,7 +9,7 @@
 示例：
 
 ```text
-<img width="1718" height="300" alt="image" src="https://github.com/user-attachments/assets/55d4e6e9-6933-4ac5-8493-f423d32dd366" />
+<img width="1718" height="300" alt="image" src="./示例.png" />
 ```
 
 > 本配置适用于 Claude Code CLI。状态栏脚本只负责展示 Claude Code 通过标准输入传入的 JSON，不会调用模型 API。
