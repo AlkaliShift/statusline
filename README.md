@@ -350,4 +350,4 @@ git --version
 
 ## License
 
-本示例可按项目需要自由修改和使用。
+MIT LICENSE
